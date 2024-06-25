@@ -24,11 +24,11 @@ Once everything is ready, you can launch the application by running one of the f
 ```sh
 streamlit run scripts/01_levenshtein_distance.py
 ```
-- Object Detection:
+- [Object Detection](https://app-project-br7kujv2xfmky84mbbzqvq.streamlit.app/)
 ```sh
 streamlit run scripts/02_object_detection.py
 ```
-- Chatbot:
+- Chatbot
 ```sh
 streamlit run scripts/03_chatbot.py
 ```
