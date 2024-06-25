@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Running the Application
 Once everything is ready, you can launch the application by running one of the following commands:
-- Levenshtein Distance Calculation:
+- [Levenshtein Distance Calculation](https://app-project-6q8qbsczuhh54nzt3xatcc.streamlit.app/)
 ```sh
 streamlit run scripts/01_levenshtein_distance.py
 ```
