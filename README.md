@@ -28,7 +28,7 @@ streamlit run scripts/01_levenshtein_distance.py
 ```sh
 streamlit run scripts/02_object_detection.py
 ```
-- Chatbot
+- [Chatbot](https://app-project-v8ffadoqxud23vgymydvp3.streamlit.app/)
 ```sh
 streamlit run scripts/03_chatbot.py
 ```
