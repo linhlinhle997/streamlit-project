@@ -4,17 +4,25 @@ This Streamlit application showcases various machine learning models and utiliti
 
 ## Installation
 1. Clone the repository:
-```sh
+```bash
 git clone https://github.com/yourusername/streamlit-project.git
 cd streamlit-project
 ```
+
 2. (Optional) Create and activate a virtual environment:
-```sh
+Using `venv`
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
 ```
+Using `Conda`
+```bash
+conda create --name streamlit-env python=3.11
+conda activate streamlit-env
+```
+
 3. Install the required dependencies:
-```sh
+```bash
 pip install -r requirements.txt
 ```
 
