@@ -10,6 +10,7 @@ cd streamlit-project
 ```
 
 2. (Optional) Create and activate a virtual environment:
+
 Using `venv`
 ```bash
 python3 -m venv .venv
